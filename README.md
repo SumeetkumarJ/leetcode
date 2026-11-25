@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/SumeetkumarJ/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SumeetkumarJ/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SumeetkumarJ/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SumeetkumarJ/leetcode/tree/master/0055-jump-game) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/SumeetkumarJ/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SumeetkumarJ/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SumeetkumarJ/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SumeetkumarJ/leetcode/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SumeetkumarJ/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SumeetkumarJ/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SumeetkumarJ/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SumeetkumarJ/leetcode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
